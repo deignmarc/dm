@@ -4,3 +4,16 @@ lagyan ng changes
 wow
 grabe
 supra
+
+Pakage dm;
+
+import java.util.Scanner;
+
+static calss DeignMarc{
+    
+    public static void main(String[] args){
+
+        System.out.print("Hello World")
+
+    }
+}
